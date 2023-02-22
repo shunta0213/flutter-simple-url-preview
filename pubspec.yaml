@@ -3,8 +3,9 @@ description: Flutter package to show url preview. Custamizable height, backgroun
 version: 3.0.1
 homepage: https://github.com/Amitbhave/flutter-simple-url-preview
 
+publish_to: "none"
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -13,7 +14,11 @@ dependencies:
   html: ^0.15.0
   url_launcher: ^6.0.6
   string_validator: ^0.3.0
-  cached_network_image: ^3.0.0
+  cached_network_image:
+    git:
+      url: git@github.com:shunta0213/flutter_cached_network_image.git
+      path: cached_network_image
+      ref: 53d6839a285df6ca838efdf874fb3d4a0cbd9fd5
   collection: ^1.15.0
 
 dev_dependencies:
