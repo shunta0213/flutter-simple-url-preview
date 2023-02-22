@@ -21,8 +21,8 @@ packages:
     dependency: transitive
     description:
       path: cached_network_image
-      ref: "77a83c4138e457f645a722ed7e9df7264c81d943"
-      resolved-ref: "77a83c4138e457f645a722ed7e9df7264c81d943"
+      ref: b47d4eeac691b170dfee10faa4029695f9b95aa6
+      resolved-ref: b47d4eeac691b170dfee10faa4029695f9b95aa6
       url: "git@github.com:shunta0213/flutter_cached_network_image.git"
     source: git
     version: "3.2.3"
