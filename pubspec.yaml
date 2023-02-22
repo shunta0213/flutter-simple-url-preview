@@ -18,7 +18,7 @@ dependencies:
     git:
       url: git@github.com:shunta0213/flutter_cached_network_image.git
       path: cached_network_image
-      ref: 77a83c4138e457f645a722ed7e9df7264c81d943
+      ref: b47d4eeac691b170dfee10faa4029695f9b95aa6
   collection: ^1.15.0
 
 dev_dependencies:
